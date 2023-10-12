@@ -31,10 +31,6 @@ Ce projet a été l'occasion de mettre en avant les compétences suivantes en ge
 - Priorisation des tâches
 - Estimation des ressources humaines et financières
 - Gestion des enjeux légaux et éthiques, notamment en ce qui concerne le RGPD
-- Présentation et communication efficace
-
-
-[Lire en anglais](#ai-tool-framing-project)
 
 ---
 
@@ -66,6 +62,5 @@ This project has provided an opportunity to showcase the following skills in pro
 - Task prioritization
 - Estimation of human and financial resources
 - Handling legal and ethical issues, particularly GDPR compliance
-- Effective presentation and communication.
 
 [Read in French](#projet-de-cadrage-dun-outil-ia)

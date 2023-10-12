@@ -1,5 +1,5 @@
-[Lire en français](#projet-de-cadrage-dun-outil-ia)
-[Read in English](#ai-tool-framing-project)
+[Version française](#projet-de-cadrage-dun-outil-ia)  
+[English Version](#ai-tool-framing-project)
 
 # Projet de Cadrage d'un Outil IA
 
@@ -21,7 +21,7 @@ Le référentiel contient les éléments suivants :
 
 - [Registre RGPD](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/registre_rgpd.docx) : Le registre RGPD répertorie les enjeux légaux et éthiques du projet, notamment ceux liés aux biais du modèle et à la collecte des données personnelles.
 
-- [Présentation COMEX](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/presentation.pptx) : Le PowerPoint de présentation du projet 
+- [Présentation](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/presentation.pptx) : Le PowerPoint de présentation du projet 
 
 ## Compétences Mises en Avant
 
@@ -52,7 +52,7 @@ The repository contains the following elements:
 
 - [GDPR Registry](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/registre_rgpd.docx): The GDPR registry lists the legal and ethical issues related to the project, especially those related to model biases and the collection of personal data.
 
-- [COMEX Presentation](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/presentation.pptx): The PowerPoint presentation for the project.
+- [Presentation](https://github.com/rlossec/Clothing_AI_recommendation/blob/master/presentation.pptx): The PowerPoint presentation for the project.
 
 ## Highlighted Skills
 
